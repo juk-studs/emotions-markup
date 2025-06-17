@@ -8,5 +8,6 @@ Dusha + YouTube
 |-|--------|---|-|-|-|
 |Морфологические признаки|Части речи|Текст|CoNNL-U|INCEpTION|word_id, phrase_id, emotion_id
 |Леммы|Леммы|Текст|CoNNL-U|INCEpTION|word_id, phrase_id, emotion_id
-||Аудио|||
-||Аудио|||
+|Громкость звука|Громкие/тихие участки|Аудио|TextGrid|Praat|phrase_id, emotion_id
+|Тональность|Высокий/низкий тон|Аудио|TextGrid|Praat|phrase_id, emotion_id
+|Слова|Интервалы слов|Аудио|TextGrid|Praat|word_id, phrase_id, emotion_id
